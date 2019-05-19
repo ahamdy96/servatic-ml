@@ -1,0 +1,87 @@
+Q: How can I place orders?
+A: There are two ways to place orders for our services: By using the Self-Service Marketplace (only for text creation, translations, surveys and sentiment analysis)or by placing an individual order and personal contact (managed service) to our sales team.
+Q: Which method of ordering is best for me?
+A: In the areas of standardized text creation (with and without keywords), translations and survey tasks, it is more advantageous and favorable for you to enter the order using the Self-Service Marketplace. If you have large, individual projects from any service areas offered, please contact our sales team. They will provide personal advice and discuss the project with you.
+Q: What is the order procedure?
+A: We determine the project specifications together with you. We develop a concept tailored to the individual needs of your project. We divide the project into individual, self-contained microjobs and put them on our job platform. The jobs are shown to, and quickly processed by the respectively qualified workers from our large network of Clickworkers. The results are subject to a quality control and are automatically checked for plagiarisms (by copyscape) and the specified keyword density. You will be sent the faultless results for approval. 
+Q: What preliminary information is needed for an offer?
+A: Depending on the service requested we will need the following specifications: Text creation: Text length, text language, number of texts, quality requirements. SEO texts: Text length, text language, number of keywords per text, keyword density, number of texts, quality requirements. Translations: Source and target language, average text length, number of texts to be translated, if applicable keywords to be used. Web research: Type of information to be researched, amount of information/ data sets to be researched or lists of topics or URLs to complete. Categorization: Type of data to be categorized, information regarding the allocation criteria, categories requested, quality requirements. Tagging: Type of files to be tagged, keywords, and number of keywords per file. Product Data Management: Language of the data which have to be extracted/digitized, type of data, form of data, number of the data which have to be extracted/digitized. Surveys: Topic of the survey, length of the survey, target group, number of required returns
+Q: How is quality ensured?
+A: For each task we select corresponding Clickworkers according to their individual skills. These skills have been verified through trainings and tests. Furthermore, their skills are continuously subjected to evaluation based on the work results. In addition, the high quality of the work results are secured by special quality management measures such as statistic process control, audits, peer reviews and evaluation.
+Q: How do I receive the results?
+A: The results are delivered to you by email, or loaded directly into your system/ application via API connection.
+Q: How great is the risk that the results do not meet my expectations?
+A: We discuss the outcome requirements as accurately as possible in advance. Furthermore, when we are dealing with large orders, we agree on a test order to ensure correct and faultless processing.
+Q: What does an order cost?
+A: The costs are calculated according to the amount of time involved and the quality requirements. These vary from project to project. Therefore, per project, you will receive an individual offer on demand.
+Q: How and when do I receive the invoices?
+A: Invoices are issued at the end of the month for the results rendered until then, and will be sent to you by mail or email.
+Q: Which URL do I use to login as a client?
+A: You must register once through our site registration. With your password you can then login directly to your account via our site login.
+Q: How long does it typically take before I receive my completed order?
+A: Processing time can vary greatly depending on the order. For the most part, short texts are usually written or translated within just a few days. Longer text may require more time, mostly depending on the amount of research the Clickworker has to do.
+Q: How do you process my order?
+A: After receiving your order, we create a job container that is visible to the Clickworkers who have qualified to work on orders of the type you placed (e.g.Create a text in Spanis). Instructions for the tasks are visible ahead of time. Be sure to make your instructions clear and concise. This is something we check before adding your job to the queue.
+Q: I am not a company. Can I place orders being an individual?
+A: Yes. Simply enter your first and last name as your company name under the menu item Contact Details.
+Q: How can I assure that the results (texts and translations) meet my requirements?
+A: As soon as the order is completed you can see the results and check if your requirements have been met. We recommend to select a high quality level during your order placement to ensure that your texts will be created or translated by top authors / translators only. It is also advisable to book / select an addition proofreading service. All texts are than finally checked by a second person.
+Q: What do I do if I am not satisfied with the results (texts and translations)?
+A: If you find that your requirements have not been satisfied you can reject the text with a detailed explanation. The author will then have the opportunity to go back and fix the text. The revised text is then quality checked by us. We decide if it is acceptable for redelivery or if a different author should be asked to write the text. In either case, you only pay for the text you accept.
+Q: How can I be sure that the texts I receive do not violate someone�s copyrights?
+A: As our client you receive all usage rights for your content. We also utilize copyscape.com for all text deliverables to check for plagiarism.
+Q: How do I receive the results (texts and translations) of my order?
+A: You can find the results of your order within your customer account. At the list of your orders, you will find an export button for each order completed. Now you can export your order, using a variety of formats (xml, csv, txt).
+Q: What is the cost of my order?
+A: Pricing for text creation and SEO texts vary based on the number of words and the quality level selected. The specific prices will be displayed in the order form of our self service marketplace. The pricing for surveys is based on the fee each participant (defined by yourself) x 1.4 (Service-Fee) plus value added tax. You can find an overview of our prices on the site Pricing.
+Q: How can I obtain a receipt about payments I have made as well as invoices?
+A: When you have topped up your account using PayPal or a credit card, the respective receipts can be accessed in your login area. Simply select the menu item Account -> My invoices.
+Q: What Payment Methods can I use?
+A: clickworker supports payment through PayPal, credit card and wire transfer. An invoice is created as soon as an order is completed. The invoices are then also available for download and can be accessed under the menu item Account -> My invoices mentioned above.
+Q: How are you?
+A: fine,thanks.And you?
+Q: Can I ask a question?
+A: Of course,go ahead.
+Q: Is anyone I can talk to about a problem?
+A: Hold on a second I will check that for you.Please,tell me what kind of problem do you have?
+Q: What kind of services do you provide?
+A: We provide tourism customer services like: Hotel reservations, Travel assistance, Trip planner,
+Q: What if I purchase an item and then I see it somewhere else cheaper?
+A: Not to worry! Lumens has a Low-Price Guarantee so there is no reason to hesitate or wait to make your purchase! If you ever find the exact same product advertised for less anywhere, within 30 days of your Lumens purchase, please let us know and we will happily match that price. Keep in mind that shipping and handling fees will be taken into consideration. For example, if Lumens offers free shipping and the competitor charges for shipping, then the total price, including shipping, will be matched. Of course, we may require some form of verification of the offer and it must be made by an authorized dealer of the product, following manufacturer pricing guidelines and policies and it must be a stock item. The Low-Price Guarantee excludes clearance, closeout and returned items.
+Q: Can I change my order?
+A: Once we receive your order we get to work on it right away. This means that changes or cancellations are not always possible. You should also know that once an order is placed, it cannot be changed online. With all of this in mind, we still do understand that sometimes you want to ask us to try, so you may contact Customer Service to make a request for a change or cancellation. We will make our best efforts to apply the requested change. If the item ships prior to confirmation of a cancellation or change request, you may return it following our standard return policy - Returns. Note that many items that are non-returnable cannot be cancelled. 
+Q: When do I get my refund once I have returned an item?
+A: We realize that refunds are a priority for our customers. Once we have received and inspected the item we are usually able to apply the refund onto the original payment card within one week. Keep in mind that due to shipping, inspection and bank processing times it sometimes takes up to 30 days from the date that you return the item for the refund to appear on your card. 
+Q: If I return an item how is my refund calculated?
+A: If you change your mind and decide to return an item that is defined as returnable, there is no restocking fee, however you are responsible for the return shipping costs. If you receive an item that is damaged, defective or if it is not what you ordered, we will, of course, provide a replacement at no charge.
+Q: How do I return a product?
+A: If you want to return an item you may do so within 30 days of receipt as long as it is defined as a returnable item. Just contact Customer Service and we will provide pre-paid return labels. We will need your help in packaging up the item, adding the label to the box and making it available for pick up. 
+Q: What should I do if my credit card has been refused when placing an order?
+A: Check that all the details you have entered on the checkout page are correct. If it is refused after that, try another credit card. Contact Customer Service if you feel that your card is being refused due to our error. In some cases we may recommend that you contact your credit card company to get the issue resolved.
+Q: Do I get charged for shipping as each item ships?
+A: If your order includes multiple items and there are shipping charges on the order, all shipping charges are applied with the first shipment. If you have questions on this please contact Customer Service.
+Q: Do you ship overseas?
+A: We are happy to provide International service through our trusted partner International Checkout. Simply place your items in the basket then select the International Checkout option to place your order. Final pricing, shipping costs and terms are presented prior to finalizing your order. 
+Q: I have a complaint, who should I speak to?
+A: We want to know immediately when you are unhappy about your experience with Lumens. Please call, chat or email Customer Service right away and we will make our best efforts to address your concern.
+Q: What do I do if my product has a problem during the warranty period?
+A: If you experience a problem with any product you purchased from Lumens that offers a manufacturer warranty, please contact Lumens Customer Service. We will either facilitate a resolution or put you in contact with the manufacturer so that they might assist you directly. 
+Q: Do you offer discounts on large quantity orders?
+A: We offer discounts for members of the trade such as designers, architects and contractors who have presented appropriate credentials and been approved. In addition we may be able to offer special discounts for large volume orders. Please contact Customer Service with any questions.
+Q: How do I redeem a gift card or gift certificate?
+A: You may use your Gift Card by placing your order over the phone, on the website or in our Sacramento Showroom. If ordering by phone please have the Gift Card and the PIN number ready when you call. If ordering on the website, during checkout (under the Payment Options), you will see a place to input the Gift Card Number and the PIN number after you have selected yes to the query Are you using a Lumens Gift Card.
+Q: I can't find the item number or price - where do I look?
+A: There may be multiple Product Options to select (such as sizes, colors or finishes). If so, select the Options section below the main product image, then click the appropriate thumbnail photo(s) to choose your preferred options. The Item number and the Price for the selected options will now be shown next to the Add to Cart button. Some items must be ordered over the phone. Call Customer Service if you need assistance.
+Q: Why am I being charged shipping when your site says, Free shipping for orders over $75?
+A: Free shipping does not apply to certain oversized, fragile or special order items. In addition, some manufacturers require additional handling fees. When applicable, these charges will be noted on the product page as a Shipping Surcharge.
+Q: Does Lumens charge sales tax?
+A: Lumens is required by law to charge sales tax on orders that ship to an address within the state of California, Washington and Colorado. We do not add sales tax unless we are required by law to do so. If sales tax applies to your order it will be automatically calculated during checkout. For industry professionals such as designers, contractors and architects within California, Washington and Colorado who have a resale license, taxes can be waived. 
+Q: Does Lumens accept Google Checkout as a payment option?
+A: Because Google will close its Google Checkout service in November of 2013, Lumens is no longer supporting this payment option. As alternative solutions become available we will consider adding them. We support all major credit cards, including Visa, Mastercard and American Express, in addition to PayPal.
+
+
+
+
+
+
+

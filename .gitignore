@@ -1,0 +1,15 @@
+.git/
+
+model/
+
+.old/
+
+dataset.json
+
+healthtap_medical_qna_dataset_1.6m_CSV.zip
+
+QA_Health_and_Personal_Care.json.gz
+
+.finally.json
+
+
